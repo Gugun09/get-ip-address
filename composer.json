@@ -1,0 +1,22 @@
+{
+    "name": "gugun0924/myip",
+    "description": "Laravel get IP Address api",
+    "type": "library",
+    "require": {
+        "php": "^8.2"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Gugun09\\Ip\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gugun",
+            "email": "widiku8@gmail.com"
+        }
+    ]
+}
